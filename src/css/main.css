@@ -677,6 +677,7 @@ input[type=range]:focus::-ms-fill-upper {
   }
   /*HEADER END*/
   
+  
   /*BANNER START*/
   .banner-area{
     width: 100%;
@@ -693,6 +694,7 @@ input[type=range]:focus::-ms-fill-upper {
   }
   /*BANNER END*/
   
+
   /*SERVICES START*/
   .services-items{
     margin: 0 auto;
