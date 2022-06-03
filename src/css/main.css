@@ -249,7 +249,6 @@ global styles
   line-height: 1.875rem;
   text-transform: uppercase; 
   list-style-type: none;
-
 }
 .scroll-to-section a:focus{
   padding-bottom: 8px;
@@ -935,8 +934,6 @@ input[type=range]:focus::-ms-fill-upper {
     display: none;
   }
   .main-nav-mobile.active{
-    width: 100vw;
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -953,9 +950,8 @@ input[type=range]:focus::-ms-fill-upper {
   /*HEADER END*/
   .scroll-to-section{
     margin: 0!important;
+    font-size: 1.7rem;
   }
-
-
   /*BANNER START*/
   .banner-area{
     width: 100%;
