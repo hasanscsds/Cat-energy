@@ -93,7 +93,14 @@
     }
   });
 
-
+  $(document).ready(function() {
+    $('body').fullpage({
+        anchors: ['select-program', 'catalog', 'about'],
+        menu: '#menu',
+        css3: true,
+        scrollingSpeed: 1000
+    });
+});
 
 
   // Page loading animation
